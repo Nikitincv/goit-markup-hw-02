@@ -92,7 +92,8 @@ color: #fff;
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 }
 
-.button:hover {
+.button:hover,
+.button:focus {
     background-color: #404bbf;;
 }
 
